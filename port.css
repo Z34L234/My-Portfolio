@@ -1,0 +1,42 @@
+*{
+    font-family: 'Heebo', sans-serif;
+}
+
+.home-ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: none;
+}
+
+.home-a{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    padding: 0 10px;
+
+}
+
+
+
+section{
+    padding: 0 50px;
+    display:flex
+}
+
+#left-section {
+    color:blueviolet;
+    padding: 0 90px;
+}
+
+#right-section{
+    color:rgb(45, 10, 245);
+    padding: 0 90px;
+   
+}
+
+#rightsection img{
+    border-radius: 50%;
+}
+
+a { text-decoration: none; }
