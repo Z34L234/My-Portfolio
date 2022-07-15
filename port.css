@@ -48,12 +48,12 @@ button{
 
 #sect-two-first-child{
     display: flex;
-    justify-content: flex;
+    justify-content: space-between;
 }
 
 #sect-two-second-child{
     display: flex;
-    justify-content: flex;
+    justify-content: space-between;
 }
 
 #sect-two{
