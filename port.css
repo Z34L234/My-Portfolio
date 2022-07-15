@@ -21,22 +21,66 @@
 
 section{
     padding: 0 50px;
-    display:flex
+    display:flex;
+    align-items: center;
+    margin-top: 2.8cm;
 }
 
 #left-section {
-    color:blueviolet;
+    color:rgb(0, 0, 0);
     padding: 0 90px;
 }
 
 #right-section{
-    color:rgb(45, 10, 245);
-    padding: 0 90px;
-   
+    color:rgb(0, 0, 0);
 }
 
 #rightsection img{
     border-radius: 50%;
 }
+
+button{
+    background-color: rgb(180, 46, 46);
+    border: 8px solid rgb(187, 48, 48);
+    width: 3cm;
+    padding: 10px;
+}
+
+#sect-two-first-child{
+    display: flex;
+    background-color: blue;
+    justify-content: flex;
+}
+
+#sect-two-second-child{
+    display: flex;
+    background-color: white;
+    justify-content: flex;
+}
+
+#sect-two{
+    display: flex;
+    justify-content: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 a { text-decoration: none; }
