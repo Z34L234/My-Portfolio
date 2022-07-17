@@ -56,7 +56,15 @@ button{
     justify-content: space-between;
 }
 
-
+font-size: 16px;
+font-family: 'Heebo', sans-serif;
+transition: all 0.3s ease-in-out;
+box-sizing: border-box;
+margin: 0;
+display: flex;
+justify-content: space-between;
+border-bottom: 1px solid #E0E0E0;
+padding: 20px 0;
 
 
 
